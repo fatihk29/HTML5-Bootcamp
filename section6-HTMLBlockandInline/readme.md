@@ -5,6 +5,15 @@
 - Block element always start with new line.
 - <div> Element
 
+## div Element
+
+- Used as a container
+- No required attributes
+- Together with css
+- Division or section
+- Container
+
+### Block Elements Examples 
 <address>
 <article>
 <aside>
@@ -41,6 +50,13 @@
 - Does not start with new line
 - <span> Element
 
+## span Element
+
+- Inline container
+- No required attributes
+- Together with css
+- Easily styled
+
 
 <a>
 <abbr>
@@ -76,4 +92,3 @@
 <var>
 
 
-## Div Element
