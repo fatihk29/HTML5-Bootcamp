@@ -1,9 +1,7 @@
 # link Element 
-
 - Used to link to external style sheets
 
 # meta Element
-
 - metadata will not be displayed
 
 ## Define the character set used
