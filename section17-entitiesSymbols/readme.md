@@ -2,7 +2,7 @@
 
 ## HTML Entities
 - Do not forget ';' (semicolon)
-- &#12;
-- &nbsp;
-- &copy;
-- &reg;
+- '&#165';  // ¥
+- '&nbsp';
+- '&copy'; // ©
+- '&reg';  // ®
