@@ -6,3 +6,8 @@
 - '&nbsp';
 - '&copy'; // ©
 - '&reg';  // ®
+
+
+### HTML Encoding Displays an HTML page correctly
+- ASCII, ISO-8859-1, ANSI and UTF-8
+- <meta charset="UTF-8" /> default character encoding is UTF-8
