@@ -11,7 +11,11 @@
 - Each table row is defined with a tr tag.
 
 ## th Table Heading
-- The table header is defined with a th tag.
 
-## td
+- The table header is defined with a th tag.
+- Bold and centered
+
+## td Table Data
+
 - The table data or cell is defined with a td tag.
+- Data containers.
